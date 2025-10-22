@@ -24,6 +24,7 @@ function App() {
         <p>
           Edit <code>src/App.jsx</code> and save to test HMR
         </p>
+        <h1>GHA Frontend Deployment</h1>
         <p>Deployed through CI Github pages</p>
       </div>
       <p className="read-the-docs">
